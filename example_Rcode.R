@@ -1,12 +1,6 @@
 # An excercise in R
 
 
-# Print Hello World
-myString <- "Hello, World!"
-
-print (myString)
-
-
 # Monte Carlo Pi
 montecarloPi <- function(trials) {
   count = 0
